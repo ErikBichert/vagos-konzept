@@ -1,0 +1,9 @@
+<!Doctype html>
+<html lang="de">
+
+<head>
+<meta charset="utf-8">
+<title>Sinaloa-Kartell
+</title>
+</head>
+</html>
